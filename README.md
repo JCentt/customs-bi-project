@@ -17,16 +17,16 @@ By shifting from reactive reporting to a data-driven paradigm, this analytical e
 
 ##  Key Visual Interfaces
 
-### 1. Core Tax Revenue Performance `![Core Tax Revenue Performance](images/Captura_1.png)`
+### 1. Core Tax Revenue Performance *`![Tax performance](images/Captura_1.png)`*
 As shown in capture, this module breaks down monthly collections and percentage variations across the country's primary revenue streams: *Tariffs + FONDINFA*, *Value Added Tax (VAT)*, and *Excise Tax (ICE)*.
 
-### 2. ISO-Standard Periodical Matrix `![Periodical matrix](images/Captura_2.png)`
+### 2. ISO-Standard Periodical Matrix *`![Periodical matrix](images/Captura_2.png)`*
 Displayed in capture, this matrix isolates collection variations grouped by customized ISO-week periods, enabling granular comparative analytics across multiple historical fiscal years.
 
-### 3. District Budget Tracking `![budget](images/Captura_3.png)`
+### 3. District Budget Tracking *`![budget](images/Captura_3.png)`*
 Illustrated in capture, this tracking system analyzes performance target compliance by geographical customs districts (e.g., Guayaquil Marítimo, Quito, Manta), featuring daily accumulation trends and comprehensive gauge progress metrics.
 
-### 4. Consolidated Monthly Analysis `![monthly analysis](images/Captura_4.png)`
+### 4. Consolidated Monthly Analysis *`![monthly analysis](images/Captura_4.png)`*
 As visualized in capture, this high-level summary computes total YoY growth, macro budget accomplishments, and cumulative monthly variances for executive presentations.
 
 
