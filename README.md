@@ -17,16 +17,21 @@ By shifting from reactive reporting to a data-driven paradigm, this analytical e
 
 ##  Key Visual Interfaces
 
-### 1. Core Tax Revenue Performance *`![Tax performance](images/Captura_1.png)`*
+### 1. Core Tax Revenue Performance 
+![Tax performance](images/Captura_1.png)
+
 As shown in capture, this module breaks down monthly collections and percentage variations across the country's primary revenue streams: *Tariffs + FONDINFA*, *Value Added Tax (VAT)*, and *Excise Tax (ICE)*.
 
-### 2. ISO-Standard Periodical Matrix *`![Periodical matrix](images/Captura_2.png)`*
+### 2. ISO-Standard Periodical Matrix 
+![Periodical matrix](images/Captura_2.png)
 Displayed in capture, this matrix isolates collection variations grouped by customized ISO-week periods, enabling granular comparative analytics across multiple historical fiscal years.
 
-### 3. District Budget Tracking *`![budget](images/Captura_3.png)`*
+### 3. District Budget Tracking 
+![budget](images/Captura_3.png)
 Illustrated in capture, this tracking system analyzes performance target compliance by geographical customs districts (e.g., Guayaquil Marítimo, Quito, Manta), featuring daily accumulation trends and comprehensive gauge progress metrics.
 
-### 4. Consolidated Monthly Analysis *`![monthly analysis](images/Captura_4.png)`*
+### 4. Consolidated Monthly Analysis 
+![monthly analysis](images/Captura_4.png)
 As visualized in capture, this high-level summary computes total YoY growth, macro budget accomplishments, and cumulative monthly variances for executive presentations.
 
 
@@ -61,7 +66,7 @@ INT( (Date -  First_Week_Start) / 7 ) + 1
 
 Beyond financial metrics, this project features an **operational analytics engine** dedicated to tracking import volumes and customs clearance dispatch times. 
 
-*   **Customs Service Rate Analysis:** The system captures data showing that dispatch times experienced increases due to a strategic shift toward a **100% physical inspection policy (Aforo 100%)** driven by customs service rate structures.
+*   **Customs Service Rate Analysis:** The system captures data showing that dispatch times experienced increases due to a strategic shift toward in the **inspection policy ** driven by customs service rate structures.
 *   **Bottleneck Mitigation:** This analytical layer allows port authorities to proactively manage logistics staff in high-traffic ports, balance the operational workload under full physical inspections, and mitigate infrastructure bottlenecks to expedite supply chain nationalization.
 
 >  **Confidentiality Notice:** Because operational customs data, physical inspection logs, and logistics volumes are a matter of national security and strictly confidential, those specific layouts have been omitted from this public text and repository. I am currently developing an open-source version utilizing a robust **anonymized/synthetic dataset** to demonstrate the operational flow without exposing sensitive state records.
